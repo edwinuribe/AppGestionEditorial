@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace AppGestionEditorial.Web {
+namespace App.Web {
     
     
     public partial class Site1 {

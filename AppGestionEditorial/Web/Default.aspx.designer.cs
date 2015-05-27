@@ -7,9 +7,9 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace AppGestionEditorial.Web {
+namespace App.Web {
     
     
-    public partial class Index {
+    public partial class Default {
     }
 }
